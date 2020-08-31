@@ -32,3 +32,5 @@ A simple Java utility to program to recursively rename files or folders by repla
 
 1. The program shall not handle the permissions, and may not rename files/directories if the user don't have access. To rename such files/directories, run the program using apt permissions.
 
+1. Use `batch-rename/BatchRename/config.ini` file to control the features
+
