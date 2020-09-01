@@ -12,4 +12,5 @@ javac BatchRename\BatchRename.java BatchRename\Renaming.java BatchRename\RemoveD
 TIMEOUT 2
 
 ::RUN THE JAVA CLASS FILE
-java BatchRename.BatchRename
+java BatchRename.BatchRename %1
+
